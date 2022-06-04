@@ -1,0 +1,1 @@
+my main project that i want to focus on is in the Qiskit framework. There are many things I can pursue but specifically I want to try and work on the machine learning. It seems like I would be contributing to a common repository, but I am unfamiliar with how it completely works. I provided the project that I wanted to work on in the repo @ github.com/SutherlandB/lab-02
